@@ -8,7 +8,7 @@
       "discountPercentage": 10,
       "category": "Snacks",
       "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/3/9/ea369b81-7c5b-4a2a-a460-3296ac4d10a3_10595_1.png",
-      "Quantity": 12
+      "quantity": 12
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "discountPercentage": 4,
       "category": "Snacks",
       "image": "https://m.media-amazon.com/images/I/71G0N6SQ3aL.jpg",
-      "Quantity": 1
+      "quantity": 1
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "discountPercentage": 3,
       "category": "Snacks",
       "image": "https://www.bigbasket.com/media/uploads/p/xxl/189910_9-lotte-choco-pie.jpg",
-      "Quantity": 2
+      "quantity": 2
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "discountPercentage": 17,
       "category": "Snacks",
       "image": "https://csdindia.gov.in/images/Products/84902.jpg",
-      "Quantity": 6
+      "quantity": 6
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "discountPercentage": 1,
       "category": "Snacks",
       "image": "https://cdn.grofers.com/da/cms-assets/cms/product/bb040841-3b5b-4850-bc24-8ed254c29888.jpg?ts=1744286972",
-      "Quantity": 2
+      "quantity": 2
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "discountPercentage": 9,
       "category": "Snacks",
       "image": "https://m.media-amazon.com/images/I/61d6YolwYoL.jpg",
-      "Quantity": 1
+      "quantity": 1
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "discountPercentage": 5,
       "category": "Beverages",
       "image": "https://ik.imagekit.io/wlfr/wellness/images/products/354112-1.jpg/tr:w-3840,c-at_max,cm-pad_resize,ar-1210-700,pr-true,f-auto,q-70,l-image,i-Wellness_logo_BDwqbQao9.png,lfo-bottom_right,w-200,h-90,c-at_least,cm-pad_resize,l-end",
-      "Quantity": 1
+      "quantity": 1
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "discountPercentage": 2,
       "category": "Snacks",
       "image": "https://www.bigbasket.com/media/uploads/p/xxl/40204955-2_2-parle-multivita-marie.jpg",
-      "Quantity": 1
+      "quantity": 1
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "discountPercentage": 3,
       "category": "Snacks",
       "image": "https://www.bigbasket.com/media/uploads/p/l/40025055_5-britannia-good-day-pista-badam-cookies.jpg",
-      "Quantity": 2
+      "quantity": 2
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "discountPercentage": 8,
       "category": "Snacks",
       "image": "https://www.bigbasket.com/media/uploads/p/xl/266162_20-maggi-2-minute-instant-noodles-masala.jpg",
-      "Quantity": 2
+      "quantity": 2
     },
     {
       "id": 11,
@@ -108,7 +108,7 @@
       "discountPercentage": 5,
       "category": "Snacks",
       "image": "https://www.bbassets.com/media/uploads/p/xxl/40016501_1-act-ii-tomato-bakes.jpg",
-      "Quantity": 2
+      "quantity": 2
     },
     {
       "id": 12,
@@ -118,7 +118,7 @@
       "discountPercentage": 0,
       "category": "Snacks",
       "image": "https://cdn.grofers.com/app/images/products/sliding_image/432831a.jpg?ts=1687523480",
-      "Quantity": 1
+      "quantity": 1
     },
     {
       "id": 13,
@@ -128,7 +128,7 @@
       "discountPercentage": 6,
       "category": "Personal Care",
       "image": "https://cdn.salla.sa/nGgdb/Jy7Gx3RKlBYmKHZtljb0viA8SicpbZmcbSqEuHqD.jpg",
-      "Quantity": 1
+      "quantity": 1
     },
     {
       "id": 14,
@@ -138,7 +138,7 @@
       "discountPercentage": 8,
       "category": "Household",
       "image": "https://www.bigbasket.com/media/uploads/p/xxl/40237248_2-henko-matic-liquid-detergent-top-load-nano-fibre-lock-technology-999-germ-protection.jpg",
-      "Quantity": 1
+      "quantity": 1
     },
     {
       "id": 15,
@@ -148,7 +148,7 @@
       "discountPercentage": 7,
       "category": "Personal Care",
       "image": "https://images.apollo247.in/pub/media/catalog/product/P/A/PAR0003_1-AUG23_1.jpg?tr=q-80,f-webp,w-400,dpr-3,c-at_max%201200w",
-      "Quantity": 1
+      "quantity": 1
     }
   ]
 }
