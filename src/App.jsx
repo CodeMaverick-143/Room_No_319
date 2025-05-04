@@ -1,6 +1,7 @@
 import React from 'react'
 import { ThemeProvider, createTheme, CssBaseline, Box } from '@mui/material'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { Analytics } from '@vercel/analytics/react'
 import './App.css'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
@@ -199,6 +200,7 @@ function App() {
           <Footer />
         </Box>
       </BrowserRouter>
+      <Analytics />
     </ThemeProvider>
   )
 }
